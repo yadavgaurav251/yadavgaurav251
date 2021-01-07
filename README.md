@@ -7,7 +7,7 @@
   <img align="left" alt="Gaurav | CodeChef" width="21px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/yadavgaurav251">
-  <img align="left" alt="Gaurav | CodeForces" width="120px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/codeforces.svg" />
+  <img align="left" alt="Gaurav | CodeForces" width="145px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/codeforces.svg" />
 </
 <a href="https://t.me/yadavgaurav251">
   <img align="left" alt="Gaurav's Telegram" width="21px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/telegram.svg" />
