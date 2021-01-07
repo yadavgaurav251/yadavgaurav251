@@ -13,7 +13,7 @@
   <img align="left" alt="Gaurav | CodeForces" width="21px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/codeforces_min.svg" />
 </a>
 <a href="https://www.kaggle.com/yadavgaurav251/">
-  <img align="left" alt="Gaurav | Kaggle" width="71px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/kaggle_min.svg" />
+  <img align="left" alt="Gaurav | Kaggle" width="55px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/kaggle_min.svg" />
 </a>
 
 
