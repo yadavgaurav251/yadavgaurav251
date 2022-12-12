@@ -6,7 +6,7 @@
 <a href="https://t.me/yadavgaurav251">
   <img align="left" alt="Gaurav's Telegram" width="21px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/telegram.svg" />
 </a>
-<a href="http://codechef.com/users/yadavgaurav251">
+<a href="http://codechef.com/users/kakashi25">
   <img align="left" alt="Gaurav | CodeChef" width="21px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/yadavgaurav251">
